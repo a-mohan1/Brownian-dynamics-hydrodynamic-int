@@ -1,0 +1,13 @@
+nbeads   11
+nens     100
+sprtype  4
+lambda   1.1d0
+whicRNG  1
+nseed    -17
+delt     5.d-4
+relt     0.1d0
+Nks      19.8d0
+v        3.d-5
+tether   F
+isgev    T
+isflow   F
